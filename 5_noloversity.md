@@ -1,3 +1,8 @@
 # noloversity
 
-Crypto adoption for everyone... We will transform your paper hands to diamonds hands. We have the learn to earn approach. We pay you to get fit in the crypto space (vision investment).Using our spaces the NOLOversity introduces new people to all crypto topics (NFT, solidity, crypto, fundamentals, tokenomics etc...)Our NOLO champions community members will be the ambassadors to bring the crypto world to the people who wants to know more about it.
+Crypto adoption for everyone... We will transform your paper hands to diamonds hands. We have the learn to earn approach. We pay you to get fit in the crypto space (vision investment).
+
+Using our spaces the NOLOversity introduces new people to all crypto topics (NFT, solidity, crypto, fundamentals, tokenomics etc...)
+
+Our NOLO champions community members will be the ambassadors to bring the crypto world to the people who wants to know more about it.
+
