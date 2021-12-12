@@ -1,9 +1,9 @@
 # Table of contents
 
-* [nolo.io](README.md)
+* [nolo.xyz](README.md)
 * [vision](2\_vision.md)
 * [nolo gallery](3\_gallery.md)
-* [nolo space](4\_space/README.md)
+* [nolo space](4\_space.md)
   * [nolo parties](4\_space/nolo-parties.md)
   * [Theme corners](4\_space/theme-corners.md)
 * [noloversity](5\_noloversity.md)
