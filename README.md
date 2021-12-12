@@ -1,6 +1,6 @@
 # nolo.io
 
-PLACE TO BE FOR CRYPTO COMMUNITY
+THE PLACE TO BE FOR THE CRYPTO COMMUNITY
 
 ## nolo use cases
 
@@ -13,4 +13,3 @@ NOLOversity (crypto adoption)
 NOLO foundation
 
 NOLO bridge (connect real world with crypto world)
-
