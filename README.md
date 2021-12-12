@@ -6,13 +6,11 @@ description: THE PLACE TO BE FOR THE CRYPTO COMMUNITY
 
 ## Vision
 
-Crypto for everyone
+Crypto is for everyone, we create the missing link to the real world.
 
-Real world NFT staking&#x20;
+Real world NFT staking in our beautiful gallery&#x20;
 
-Crypto adoption&#x20;
-
-Community meet ups
+Crypto adoption and community meet ups
 
 ## Use Cases
 

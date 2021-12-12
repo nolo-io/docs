@@ -1,9 +1,22 @@
+---
+description: Where the magic happens.
+---
+
 # nolo gallery
 
-NFT holders can stake their precious NFTs in our mixed reality gallery.
+## For Holders 💎🙌
 
-Dont just just let your NFT rot in your Wallet... Show it off to the world and earn some crypto.
+NFT holders can stake their precious art in our mixed reality gallery. Don't just let your NFT sit in your wallet, show it to the world and earn some crypto while doing so.&#x20;
 
-Nolo gives you bigger reach for trading your NFTs.&#x20;
+## For Artists and Collectors ✨
 
-Join our recurring auctions in the NOLO.io space!
+NOLO space gives your art more reach. You can showcase your newest creations on top quality audiovisual equipment in our beautiful gallery.
+
+We hold regular auctions where we feature big names and new artists side-by-side.
+
+## For Everyone ❤️
+
+Whether you are an enthusiast trader, completely new to crypto, or really just interested in the art, our doors are open for you!&#x20;
+
+Enjoy our beautiful gallery, buy your first NFT or join your friends with a cold drink in the NOLO space.
+

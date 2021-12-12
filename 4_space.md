@@ -1,3 +1,7 @@
+---
+description: The place to be.
+---
+
 # nolo space
 
 Meeting and work space for crypto OGs, enthusiasts and crypto pros to be.
