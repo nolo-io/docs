@@ -1,13 +1,11 @@
 ---
-description: Trade crypto
+description: Trade crypto in real life.
 ---
 
 # nolo bridge
 
-connect real world with crypto world
+Whether it is your first transaction or you are an experienced trader, you can by and sell your crypto with fiat at our trading desk.
 
-payments and real world interactions with crypto
+The nolo bridge helps people get into crypto safely who don’t yet have enough knowledge or don’t feel like signing up for an exchange that requires kyc.
 
-anonymously buy and sell crypto with fiat
-
-support crypto onramp - make it as easy as possible for the early and late majority
+The bridge is also an onramp for everyone. Easily transfer money to your wallet on your favorite blockchain. We take care of the details such as briding or wrapping your tokens.&#x20;

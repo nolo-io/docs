@@ -1,9 +1,13 @@
+---
+description: Meet us!
+---
+
 # nolo team
 
-Jussi
+The Visionary: Dave Voege
 
-Dave
+The ETHhead: Jussi Mori
 
-Davide
+The Artist: Davide Rotondaro
 
-Tom
+The guy: Tom Torggler

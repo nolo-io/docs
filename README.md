@@ -6,11 +6,11 @@ description: Your bridge to the metaverse.
 
 ## Vision
 
-Crypto is for everyone, we create the missing link to the real world.
+Crypto is for everyone, we create the missing link from the metaverse into the real world.
 
-Real world NFT staking in our beautiful gallery&#x20;
+Real world NFT staking in our beautiful gallery. Whether your an artist or a collector, you can show off your awesome pieces in our gallery and earn staking rewards for doing so.
 
-Crypto adoption and community meet ups
+We drive crypto adoption with learning and community meet ups.
 
 ## Use Cases
 

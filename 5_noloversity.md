@@ -6,7 +6,7 @@ description: Learn to earn!
 
 Crypto adoption for everyone... We will transform your paper hands to diamonds hands. We have the learn to earn approach. We pay you to get fit in the crypto space (vision investment).
 
-Using our spaces the NOLOversity introduces new people to all crypto topics (NFT, solidity, crypto, fundamentals, tokenomics etc...)
+NOLOversity introduces new people to all crypto topics (crypto  fundamentals, NFT, solidity, etc...)
 
 Join our classes in-person or through the metaverse. Got a spot in Barcelona but you would rather be in New York today, no problem with our virtual classroom.
 

@@ -10,5 +10,5 @@
 * [nolo foundation](6\_foundation.md)
 * [nolo bridge](7\_bridge.md)
 * [tokenomcis](8\_tokenoics.md)
-* [The Plan](the-plan.md)
+* [the plan](the-plan.md)
 * [nolo team](9\_team.md)

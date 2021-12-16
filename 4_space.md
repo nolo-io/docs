@@ -1,5 +1,5 @@
 ---
-description: Chill to earn.
+description: Chill to earn, in person and online.
 ---
 
 # nolo space

@@ -1,4 +1,8 @@
-# Theme corners
+# theme corners
+
+### Comunity corner
+
+We ❤️ community. You can always come to our community corner, get support, hang out or help others with your knowledge.
 
 ### Shitcoin corner
 

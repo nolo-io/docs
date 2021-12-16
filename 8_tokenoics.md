@@ -1,6 +1,6 @@
 # tokenomcis
 
-
+![](.gitbook/assets/E7B7ACFB-8B18-4E76-B2A7-69C979700226.jpeg)
 
 * 1% ICO
 * 14% Private Investors

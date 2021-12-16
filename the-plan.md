@@ -1,13 +1,17 @@
 ---
-description: Bringing crypto into the real world.
+description: Much better than a roadmap.
 ---
 
-# The Plan
+# the plan
 
-Secret bar
+1. Pop-up gallery in CH
+2. $nolo space in Winterthur, CH
+3. Launch DAO
+4. Secret Bar and first full $nolo location in Barcelona&#x20;
+5. Launch noloverse: virtual reality gallery and virtual reality $nolo space
+6. Launch real-life NFT staking
+7. Launch noloversity
 
-First city: Barcelona
+While building out Barcelona, we launch more secret bars in: Helsinki, Tallinn, Amsterdam.
 
-Next cities: Helsinki, Tallinn, Amsterdam
-
-In the future: Franchise
+Eventually, the $nolo brand and idea can be sold as a franchise around the world.
