@@ -5,7 +5,7 @@
 * [nolo gallery](3\_gallery.md)
 * [nolo space](4\_space.md)
   * [nolo parties](4\_space/nolo-parties.md)
-  * [Theme corners](4\_space/theme-corners.md)
+  * [theme corners](4\_space/theme-corners.md)
 * [noloversity](5\_noloversity.md)
 * [nolo foundation](6\_foundation.md)
 * [nolo bridge](7\_bridge.md)

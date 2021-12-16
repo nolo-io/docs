@@ -1,13 +1,14 @@
 ---
-description: The place to be.
+description: Chill to earn.
 ---
 
 # nolo space
 
-Meeting and work space for crypto OGs, enthusiasts and crypto pros to be.
+Join us in our lounge! Your space for work, meetings or just hanging out.&#x20;
 
-Official currency will be your preferred crypto (regular voting of which could be the next coin NOLO space accept) max. 30 different coins...
+Of course you can pay with crypto. If we don't accept your favorite token yet, join our DAO and vote for it.
 
-All cash purchases are converted to crypto and #directly invested into the $nolo token.
+All cash purchases are converted to crypto and directly invested into the $nolo token.
 
-Community events & games (e.g. L1 Monday, rollup Tuesday, gaming Wednesday, shitcoin race, Auction days, popup spaces, Podcast Fridays etc)
+Real-world airdrops: Want to send a drink to one of your friends? Drop them a delicious cocktail on the blockchain. They can pick it up in any of our locations.
+

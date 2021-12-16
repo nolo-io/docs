@@ -16,7 +16,7 @@ Play your favorite play-to-earn games while enjoying a cold brew with your frien
 
 ### Podcast Friday
 
-The nolocast will be recorded in the nolo space every Friday.
+The nolocast will be recorded in the nolo space every Friday. You can rent our awesome studio to record your own podcast.
 
 
 

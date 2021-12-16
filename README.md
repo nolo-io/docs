@@ -1,5 +1,5 @@
 ---
-description: THE PLACE TO BE FOR THE CRYPTO COMMUNITY
+description: Your bridge to the metaverse.
 ---
 
 # nolo.xyz
