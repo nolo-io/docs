@@ -12,3 +12,5 @@ DeFi and NTFs have been huge drivers for adoption in [2021](https://go.chainalys
 
 The metaverse is the next big driver for adoption and we‘re only getting started. In the next 18 months brands, companies, services, and everyone else will build out their presence in the metaverse.
 
+If an alumni signs up for noloversity, we mint a dynamic NFT to track their learning state in the noloverse. If alumni complete classes the NFT gets updated and perks are unlocked.
+

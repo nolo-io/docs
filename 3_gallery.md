@@ -6,7 +6,7 @@ description: Where the magic happens.
 
 ## For Holders 💎🙌
 
-NFT holders can stake their precious art in our mixed reality gallery. Don't just let your NFT sit in your wallet, show it to the world and earn some crypto while doing so.&#x20;
+NFT holders can stake their precious art in our mixed reality gallery. Don't just let your NFT sit in your wallet, show it to the world and earn some crypto while doing so. We reward stakers with $nolo tokens, a small fee of the rewards is deducted to fund learning in the noloversity.
 
 ## For Artists and Collectors ✨
 
