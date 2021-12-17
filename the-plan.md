@@ -4,8 +4,8 @@ description: Much better than a roadmap.
 
 # the plan
 
-1. Pop-up gallery in Winterthur, CH
-2. $nolo space in UG2 Winterthur, CH
+1. Pop-up gallery in CH
+2. $nolo space in Winterthur, CH
 3. Launch DAO
 4. Secret Bar and first full $nolo location in Barcelona&#x20;
 5. Launch noloverse: virtual reality gallery and virtual reality $nolo space
